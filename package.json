@@ -1,0 +1,21 @@
+{
+  "name": "ewally challenge",
+  "version": "1.0.0",
+  "description": "ewally challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest ./tests"
+  },
+  "keywords": [],
+  "author": "gabriel.fonseca.xyz@gmail.com",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "nodemon": "^2.0.15",
+    "supertest": "^6.2.2"
+  }
+}
